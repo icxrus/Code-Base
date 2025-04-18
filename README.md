@@ -1,2 +1,2 @@
 # Code-Base
-Code Base for my scripts
+Code Base containing scripts for free use and sharing. 
